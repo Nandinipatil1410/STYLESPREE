@@ -39,3 +39,7 @@ DIY and Upcycling Ideas: Ideas to refresh old outfits and promote sustainable fa
 2) Add a feature for users to create and share their own quizzes.
 3) Integrate backend support for a dynamic blog section.
 4) Expand the content to cover more sustainable fashion tips and DIY guides.
+
+## Authors
+1) [Trusha Kulkarni](https://github.com/tru05)
+2) [Nandini Patil](https://github.com/Nandinipatil1410)
